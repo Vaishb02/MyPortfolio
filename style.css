@@ -594,7 +594,7 @@ span {
 }
 
 .project-card {
-    flex: 0 1 calc(100% - 2rem); /* Adjust as needed to fit 3 cards in a row with spacing */
+    flex: 0 1 calc(50% - 2rem); /* Adjust as needed to fit 3 cards in a row with spacing */
     background-color: var(--bg-color); /* Use the background color from your CSS */
     border: 3px solid var(--main-color); /* Use the border color from your CSS */
     border-radius: px;
