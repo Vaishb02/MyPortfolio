@@ -62,7 +62,7 @@ body {
     color: var(--text-color);
     font-weight: 500;
     margin-left: 3.5rem;
-    transition: .3s;
+   
 }
 
 .navbar a:hover,
@@ -128,7 +128,7 @@ section {
 
 .home.show-animate .home-content .text-animate h3 {
     animation: homeBgText 6s linear infinite;
-    animation-delay: 2s;
+    animation-delay: 10s;
 }
 
 .home-content .text-animate h3::before {
@@ -594,7 +594,7 @@ span {
 }
 
 .project-card {
-    flex: 0 1 calc(50% - 2rem); /* Adjust as needed to fit 3 cards in a row with spacing */
+    flex: 0 1 calc(100% - 2rem); /* Adjust as needed to fit 3 cards in a row with spacing */
     background-color: var(--bg-color); /* Use the background color from your CSS */
     border: 3px solid var(--main-color); /* Use the border color from your CSS */
     border-radius: px;
