@@ -601,20 +601,20 @@ span {
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     animation: fadeInUp 2s ease;
-    margin-bottom: 2rem; 
+    margin-bottom: 5rem; 
     
 }
 
 .project-card img {
-    width: 80%;
-    height: 50%;
+    width: 70%;
+    height: 40%;
     display:block;
     margin: auto;
     
 }
 
 .project-info {
-    padding: 10px;
+    padding: 20px;
 }
 
 
